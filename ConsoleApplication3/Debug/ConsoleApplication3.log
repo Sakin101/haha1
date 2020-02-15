@@ -1,0 +1,6 @@
+﻿  ConsoleApplication3.cpp
+C:\Users\sachi\source\repos\ConsoleApplication3\ConsoleApplication3.cpp(119,16): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sachi\source\repos\ConsoleApplication3\ConsoleApplication3.cpp(145,16): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sachi\source\repos\ConsoleApplication3\ConsoleApplication3.cpp(148,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sachi\source\repos\ConsoleApplication3\ConsoleApplication3.cpp(148,13): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  ConsoleApplication3.vcxproj -> C:\Users\sachi\source\repos\ConsoleApplication3\Debug\ConsoleApplication3.exe
